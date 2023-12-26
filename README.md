@@ -1,0 +1,1 @@
+# PaperMC Kotlin Plugin Template
