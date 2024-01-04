@@ -1,1 +1,1 @@
-rootProject.name = "paper-kotlin-template"
+rootProject.name = "paper-daydream"
